@@ -1,5 +1,7 @@
 #PEDESTRIAN TRAFFIC AI
 - Dariush Ettehadieh, Polytechnique Montreal
+- Bilal Farooq Ph.D., Polytechnique Montreal
+- Nicolas Saunier Ph.D., Polytechnique Montreal
 
 The aim of this project is to calibrate video-based trackers via simulated annealing for pedestrian tracking in a given video.
 
